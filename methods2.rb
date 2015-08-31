@@ -1,7 +1,9 @@
 module Methods2
 	
 	# TODO - write elevenish?
-	
+	def elevenish (n)
+		n % 11 < 2
+	end
 	# TODO - write ice_cream_party?
 	
 	# TODO - write successful_squirrel_party?
